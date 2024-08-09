@@ -17,7 +17,8 @@ logs
 .DS_Store
 .fleet
 .idea
-assets
+assets/*
+!/**/.gitkeep
 
 # Local env files
 .env
