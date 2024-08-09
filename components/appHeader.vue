@@ -3,7 +3,7 @@
     <template #prepend>
       <v-img
         class="mr-1 ml-8"
-        src="../assets/logo/logo-tel-1.png"
+        src="../assets/logos/logo-tel.png"
         height="64"
         width="64"
         contain
