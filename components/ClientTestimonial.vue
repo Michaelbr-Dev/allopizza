@@ -2,7 +2,7 @@
   <div class="testimonial">
     <v-row justify="center">
       <v-col v-for="product in props.products" :key="product.id" lg="3">
-        <v-sheet class="rounded-lg">
+        <v-sheet class="rounded-lg testimonial-cell">
           <div class="pa-3">
             {{ product.text }}
           </div>
@@ -21,7 +21,14 @@ console.log(props);
 
 <style scoped>
 .testimonial {
-  width: 80%;
+  width: 90%;
   margin: auto;
+}
+
+.testimonial-cell {
+  min-width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 </style>
