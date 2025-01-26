@@ -23,6 +23,7 @@ console.log(props);
 .testimonial {
   width: 90%;
   margin: auto;
+  margin-bottom: 20px;
 }
 
 .testimonial-cell {
