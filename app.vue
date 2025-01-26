@@ -1,12 +1,10 @@
 <template>
-  <NuxtLayout :name="layout">
+  <NuxtLayout>
     <NuxtPage />
   </NuxtLayout>
 </template>
 
 <script setup>
-const layout = 'default';
-
 useSeoMeta({
   title: 'Allopizza Saint-Saulve',
   ogTitle: 'Allopizza Saint-Saulve',
