@@ -18,6 +18,7 @@ logs
 .fleet
 .idea
 assets/*
+public/assets/*
 !/**/.gitkeep
 
 # Local env files
