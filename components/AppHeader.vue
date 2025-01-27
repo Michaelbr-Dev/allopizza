@@ -3,7 +3,7 @@
     <template #prepend>
       <v-img
         class="mr-1 ml-8"
-        src="../assets/logos/logo-tel.png"
+        src="../public/assets/logo-tel.png"
         height="64"
         width="64"
         contain
@@ -21,7 +21,13 @@
 
     <v-toolbar-items v-if="mdAndUp" class="align-center">
       <v-btn v-for="(item, i) in items" :key="i">{{ item.title }}</v-btn>
-      <v-img class="mr-2" src="../assets/icons/icone-fb.png" height="32" width="32" contain></v-img>
+      <v-img
+        class="mr-2"
+        src="../public/assets/icone-fb.png"
+        height="32"
+        width="32"
+        contain
+      ></v-img>
     </v-toolbar-items>
 
     <v-toolbar-items v-if="smAndDown" class="align-right">
