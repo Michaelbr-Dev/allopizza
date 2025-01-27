@@ -27,9 +27,10 @@ console.log(props);
 }
 
 .testimonial-cell {
-  min-width: 300px;
+  min-width: 280px;
+  height: 100%;
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: center;
 }
 </style>
