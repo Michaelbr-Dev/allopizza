@@ -4,7 +4,7 @@
     <p class="h2 ma-3 pa-3 text-center ma-auto max-width-90%">
       Allo Pizza ... Retrouvez le goût des saveurs !
     </p>
-    <ProductsList v-if="products !== null" :products="products.pizzas" />
+    <PizzasList v-if="products !== null" :products="products.pizzas" />
     <p class="h2 ma-3 pa-3 text-center ma-auto max-width-90%">L'avis des clients ...</p>
     <ClientTestimonial v-if="products !== null" :products="products.testimonial" />
   </div>
