@@ -20,7 +20,7 @@
     </v-app-bar-title>
 
     <v-toolbar-items v-if="mdAndUp" class="align-center">
-      <v-btn v-for="(item, i) in items" :key="i">{{ item.title }}</v-btn>
+      <v-btn v-for="(item, i) in items" :key="i" :href="item.route">{{ item.title }}</v-btn>
       <v-img
         class="mr-2"
         src="../public/assets/icone-fb.png"
@@ -37,7 +37,7 @@
         </template>
 
         <v-list>
-          <v-list-item v-for="(item, i) in items" :key="i">
+          <v-list-item v-for="(item, i) in items" :key="i" :href="item.route">
             <v-list-item-title>{{ item.title }}</v-list-item-title>
           </v-list-item>
         </v-list>
@@ -52,10 +52,10 @@ import { useDisplay } from 'vuetify';
 const { mdAndUp, smAndDown } = useDisplay();
 
 const items = [
-  { title: 'LES PIZZAS' },
-  { title: 'LES BOISSONS' },
-  { title: 'LES DESSERTS' },
-  { title: 'HISTORIQUE' },
+  { title: 'LES PIZZAS', route: '/' },
+  { title: 'LES BOISSONS', route: '/boissons' },
+  { title: 'LES DESSERTS', route: '/desserts' },
+  { title: 'HISTORIQUE', route: '/historique' },
 ];
 </script>
 
