@@ -3,63 +3,70 @@
     {
       "id": 1,
       "name": "Margherita",
+      "subName": "",
       "ingredients": "Tomate, Mozzarella (= Base)",
       "img": "Margherita.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "9€"
     },
     {
       "id": 2,
       "name": "5 Fromages",
+      "subName": "",
       "ingredients": "Base et assortiment de 4 fromages",
       "img": "5-Fromages.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "10€"
     },
     {
       "id": 3,
       "name": "Ch'ti",
+      "subName": "",
       "ingredients": "Mozzarella, Crème, Maroilles",
       "img": "Ch_ti.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "10€"
     },
     {
       "id": 4,
       "name": "Remus",
+      "subName": "",
       "ingredients": "Base, Champignons, Chèvre",
       "img": "Remus.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "10€"
     },
     {
       "id": 5,
       "name": "Romulus",
+      "subName": "",
       "ingredients": "Base, Jambon, Chèvre",
       "img": "Romulus.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "10€"
     },
     {
       "id": 6,
       "name": "Miel",
+      "subName": "",
       "ingredients": "Mozzarella, Crème fraîche, Champignons, Chèvre, Miel, Noix",
       "img": "Miel.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "10€"
     },
     {
       "id": 7,
       "name": "Savoyarde",
+      "subName": "",
       "ingredients": "Mozzarella, Crème, Lardons, Oignons, Champignons, Reblochon, P. de Terre",
       "img": "Savoyarde.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "12€"
     },
@@ -67,288 +74,320 @@
     {
       "id": 8,
       "name": "Zucchini",
+      "subName": "",
       "ingredients": "Mozzarella, Crème, Feta, Courgettes, Oeuf, Bacon, Parmesan",
       "img": "Zucchini.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "12€"
     },
     {
       "id": 9,
       "name": "Primavera",
+      "subName": "",
       "ingredients": "Base, Chèvre frais, Courgettes grillées, Tomates confites, Pignons de pin, Basilic",
       "img": "Primavera.jpg",
-      "categories": "Spécialités au Fromage",
+      "category": "Spécialités au Fromage",
       "link": null,
       "price": "12€"
     },
     {
       "id": 10,
       "name": "Jambon",
+      "subName": "",
       "ingredients": "Base, Jambon",
       "img": "Jambon.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "9€"
     },
     {
       "id": 11,
       "name": "Toto",
+      "subName": "",
       "ingredients": "Base, Jambon, Oeuf, Persillade",
       "img": "Toto.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 12,
       "name": "Arno",
+      "subName": "",
       "ingredients": "Base, Jambon, Champignons",
       "img": "Arno.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 13,
       "name": "4 Stagione",
+      "subName": "",
       "ingredients": "Base, Jambon, Champignons, Artichauts, Olives, Câpres",
       "img": "4-Stagione-4-saisons.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 14,
       "name": "Isolina",
+      "subName": "",
       "ingredients": "Base, Jambon, Ananas, Paprika",
       "img": "Isolina.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 15,
       "name": "Oranaise",
+      "subName": "",
       "ingredients": "Base, Mergez, Oeuf",
       "img": "Oranaise.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 16,
       "name": "Romana",
+      "subName": "",
       "ingredients": "Base, Oignons, Jambon cru",
       "img": "Romana.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 17,
       "name": "Lardiera",
+      "subName": "",
       "ingredients": "Base, Oignons, Lardons",
       "img": "Lardiera.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 18,
       "name": "Vulcano",
+      "subName": "",
       "ingredients": "Base, Chorizo, Oeuf",
       "img": "Vulcano.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "10€"
     },
     {
       "id": 19,
       "name": "Arrabiata",
+      "subName": "",
       "ingredients": "Base, Oignons rouges, Olives, Câpres, Spianata calabrèse (Salami piquant)",
       "img": "Arrabiata.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 20,
       "name": "Sophia",
+      "subName": "",
       "ingredients": "Base, Oignons, Lardons, Chèvre",
       "img": "Sophia.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 21,
       "name": "Carbonara",
+      "subName": "",
       "ingredients": "Mozzarella, Crème, Jambon, Lardons, Oeuf, Parmesan",
       "img": "Carbonara.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 22,
       "name": "Capricciosa",
+      "subName": "",
       "ingredients": "Base, Champignons, Oignons, Lardons, Poivrons, Mergez, Chorizo, Oeuf",
       "img": "Capricciosa.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 23,
       "name": "Gambari",
+      "subName": "",
       "ingredients": "Base, Champignons, Gorgonzola, Jambon cru, Noix",
       "img": "Gambari.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 24,
       "name": "Basquaise",
+      "subName": "",
       "ingredients": "Base, Poulet Tex-Mex, Poivrons, Oignons, P. de Terre aux lardons, Tomates fraîches",
       "img": "Basquaise.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 25,
       "name": "California",
+      "subName": "",
       "ingredients": "Mozzarella, Crème, Poulet rôti, Moutarde",
       "img": "California.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 26,
       "name": "Indiana",
+      "subName": "",
       "ingredients": "Mozzarella, Crème, Poulet au curry, Oignons frits",
       "img": "Indiana.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 27,
       "name": "Mexicana",
+      "subName": "",
       "ingredients": "Base, Égrené de boeuf, Haricots rouges, Maïs, Poivrons, Chorizo",
       "img": "Mexicana.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 28,
       "name": "Pinocchio",
+      "subName": "",
       "ingredients": "Base, Champignons, Égrené de boeuf, Chèvre, Crème, Tomates fraîches",
       "img": "Pinocchio.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 29,
       "name": "Parmiggiana",
+      "subName": "",
       "ingredients": "Base, Égrené de boeuf, Aubergines grillées, Feta, Permesan",
       "img": "Parmiggiana.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 30,
       "name": "Manhathan",
+      "subName": "",
       "ingredients": "Base, Tomates fraîches, Oignons rouges, Égrené de boeuf, Cheddar, Cornichons aigres-doux",
       "img": "Manhathan.jpg",
-      "categories": "Viandes et Charcuteries",
+      "category": "Viandes et Charcuteries",
       "link": null,
       "price": "12€"
     },
     {
       "id": 31,
       "name": "Champignons",
+      "subName": "",
       "ingredients": "Base, Champignons",
       "img": "Champignon.jpg",
-      "categories": "Produits du Potager",
+      "category": "Produits du Potager",
       "link": null,
       "price": "9€"
     },
     {
       "id": 32,
-      "name": "Végétarienne - Nature ou Persillée",
+      "name": "Végétarienne",
+      "subName": "Nature ou Persillée",
       "ingredients": "Base, Assortiment de légumes",
       "img": "Vegetarienne.jpg",
-      "categories": "Produits du Potager",
+      "category": "Produits du Potager",
       "link": null,
       "price": "10€"
     },
     {
       "id": 33,
       "name": "Napoli",
+      "subName": "",
       "ingredients": "Base, Anchois, Olives, Câpres",
       "img": "Napoli.jpg",
-      "categories": "Produits de la Mer",
+      "category": "Produits de la Mer",
       "link": null,
       "price": "10€"
     },
     {
       "id": 34,
       "name": "Siciliana",
+      "subName": "",
       "ingredients": "Base, Poivrons, Anchois",
       "img": "Siciliana.jpg",
-      "categories": "Produits de la Mer",
+      "category": "Produits de la Mer",
       "link": null,
       "price": "10€"
     },
     {
       "id": 35,
       "name": "Adriatica",
+      "subName": "",
       "ingredients": "Base, Oignons, Thon, Persillade",
       "img": "Adriatica.jpg",
-      "categories": "Produits de la Mer",
+      "category": "Produits de la Mer",
       "link": null,
       "price": "10€"
     },
     {
       "id": 36,
       "name": "Pescatore",
+      "subName": "",
       "ingredients": "Base, Fruits de mer, Persillade",
       "img": "Pescatore.jpg",
-      "categories": "Produits de la Mer",
+      "category": "Produits de la Mer",
       "link": null,
       "price": "12€"
     },
     {
       "id": 37,
       "name": "Saumon",
+      "subName": "",
       "ingredients": "Base, Oignons, Crème, Saumon fumé",
       "img": "Saumon.jpg",
-      "categories": "Produits de la Mer",
+      "category": "Produits de la Mer",
       "link": null,
       "price": "12€"
     },
     {
       "id": 38,
       "name": "Scampi",
+      "subName": "",
       "ingredients": "Base, Scampi, Persillade",
       "img": "Scampi.jpg",
-      "categories": "Produits de la Mer",
+      "category": "Produits de la Mer",
       "link": null,
       "price": "12€"
     },
     {
       "id": 39,
       "name": "Pizza éphémère",
+      "subName": "",
       "ingredients": "",
       "img": "ephemere.jpeg",
-      "categories": "Pizza éphémère",
+      "category": "Pizza éphémère",
       "link": "https://www.facebook.com/profile.php?id=100083018124674",
       "price": ""
     }
@@ -359,7 +398,7 @@
       "name": "Coca-Cola",
       "qty": "33Cl",
       "img": "coca-33cl.jpg",
-      "categories": "soft",
+      "category": "soft",
       "price": "1.50€"
     },
     {
@@ -367,7 +406,7 @@
       "name": "Coca-Cola",
       "qty": "1.25l",
       "img": "coca-1.25l.jpg",
-      "categories": "soft",
+      "category": "soft",
       "price": "3€"
     },
     {
@@ -375,7 +414,7 @@
       "name": "Fanta Orange",
       "qty": "33Cl",
       "img": "fanta-33cl.jpg",
-      "categories": "soft",
+      "category": "soft",
       "price": "1.50€"
     },
     {
@@ -383,7 +422,7 @@
       "name": "San Pellegrino",
       "qty": "50Cl",
       "img": "san-pellegrino.jpg",
-      "categories": "soft",
+      "category": "soft",
       "price": "2€"
     },
     {
@@ -391,7 +430,7 @@
       "name": "Heineken",
       "qty": "33Cl",
       "img": "heineken-33cl.jpg",
-      "categories": "beer",
+      "category": "beer",
       "price": "2€"
     },
     {
@@ -399,7 +438,7 @@
       "name": "Peroni",
       "qty": "33Cl",
       "img": "peroni-33cl.jpg",
-      "categories": "beer",
+      "category": "beer",
       "price": "2.50€"
     },
     {
@@ -407,7 +446,7 @@
       "name": "Bardolino Chiaretto",
       "qty": "75Cl",
       "img": "bardolino-chiaretto.jpg",
-      "categories": "wine",
+      "category": "wine",
       "price": "9€"
     },
     {
@@ -415,7 +454,7 @@
       "name": "Rosato trevenezie",
       "qty": "75Cl",
       "img": "rosato-trevenezie.png",
-      "categories": "wine",
+      "category": "wine",
       "price": "7€"
     },
     {
@@ -423,7 +462,7 @@
       "name": "Chianti",
       "qty": "75Cl",
       "img": "chianti.png",
-      "categories": "wine",
+      "category": "wine",
       "price": "9€"
     },
     {
@@ -431,7 +470,7 @@
       "name": "Lambrusco Rosso",
       "qty": "75Cl",
       "img": "lambrusco-emilia.jpg",
-      "categories": "wine",
+      "category": "wine",
       "price": "9€"
     },
     {
@@ -439,7 +478,7 @@
       "name": "Lambrusco Rosato",
       "qty": "75Cl",
       "img": "lambrusco-rosato.jpg",
-      "categories": "wine",
+      "category": "wine",
       "price": "9€"
     },
     {
@@ -447,7 +486,7 @@
       "name": "Montepulciano",
       "qty": "75Cl",
       "img": "montepulciano.jpg",
-      "categories": "wine",
+      "category": "wine",
       "price": "10€"
     }
   ],
@@ -455,9 +494,10 @@
     {
       "id": 1,
       "name": "Banana",
+      "subName": "",
       "ingredients": "Cassonade, Crème, Banane, Marsala",
       "img": "banana.jpeg",
-      "categories": "pizza",
+      "category": "pizza",
       "price": "5€"
     },
     {
@@ -465,7 +505,7 @@
       "name": "Tartelette Chocolat",
       "ingredient": "",
       "img": "tartelette-chocolat.jpeg",
-      "categories": "tartelette",
+      "category": "tartelette",
       "price": "2.50€"
     },
     {
@@ -473,7 +513,7 @@
       "name": "Tartelette Citron",
       "ingredient": "",
       "img": "tartelette-citron.jpeg",
-      "categories": "tartelette",
+      "category": "tartelette",
       "price": "2.50€"
     },
     {
@@ -481,7 +521,7 @@
       "name": "Tartelette Pomme",
       "ingredient": "",
       "img": "tartelette-pommes.jpeg",
-      "categories": "tartelette",
+      "category": "tartelette",
       "price": "2.50€"
     }
   ],
