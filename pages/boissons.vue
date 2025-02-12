@@ -1,6 +1,7 @@
 <template>
   <div>
     <HeroContainer :image="image" />
+    <p class="h2 ma-3 pa-3 text-center ma-auto max-width-90%">Les Boissons</p>
     <DrinksList v-if="products !== null" :products="products.boissons" />
     <p class="h2 ma-3 pa-3 text-center ma-auto max-width-90%">
       Demandez la sélection du mois - 75Cl
