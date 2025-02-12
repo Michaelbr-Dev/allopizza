@@ -2,7 +2,9 @@
   <div>
     <HeroContainer :image="image" />
     <v-sheet class="text-center">
-      <p class="h2 pt-8">Quelle est l'origine de la « pizza » ?</p>
+      <p class="h2 ma-3 pa-3 text-center ma-auto max-width-90%">
+        Quelle est l'origine de la « pizza » ?
+      </p>
       <p class="w-80 mx-auto my-4 d-md-none">
         D'origine d'Amérique du Sud, où la tomate était déjà cultivée, sa composition actuelle est
         d'origine italienne, plus précisément Napolitaine (Napoli = Naples). Le mot « pizza » est
