@@ -12,16 +12,20 @@
               </p>
               <p class="mt-2">tél: 03 27 27 04 04</p>
               <div class="pt-3 d-flex flex-column align-center">
-                <v-img
-                  class="mr-2 rounded"
-                  src="../public/assets/icone-fb.png"
-                  height="32"
-                  width="32"
-                  contain
-                ></v-img>
+                <a href="https://www.facebook.com/profile.php?id=100083018124674" target="_blank">
+                  <v-img
+                    class="mr-2 rounded"
+                    src="../public/assets/icone-fb.png"
+                    alt="Logo Facebook"
+                    height="32"
+                    width="32"
+                    contain
+                  ></v-img>
+                </a>
                 <v-img
                   class="mr-2 mt-2"
                   src="public/assets/logo-tel.png"
+                  alt="Logo Allo Pizza"
                   height="150"
                   width="150"
                   contain
@@ -41,15 +45,17 @@
               <p class="mt-2 font-weight-bold">Fermé le dimanche et le lundi</p>
               <div class="d-flex flex-row justify-space-evenly align-center flex-wrap my-3 w-100">
                 <v-img
-                  class="rounded-lg"
+                  class="rounded-lg ma-1"
                   src="public/assets/paiements.jpg"
+                  alt="Moyens de paiement"
                   width="180px"
                   height="180px"
                   contain
                 ></v-img>
                 <v-img
-                  class="rounded-lg"
+                  class="rounded-lg ma-1"
                   src="public/assets/cbna.jpg"
+                  alt="CB non acceptée"
                   width="215px"
                   height="159px"
                   contain
@@ -66,7 +72,6 @@
               width="100%"
               height="100%"
               style="border: 0"
-              allowfullscreen=""
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade"
             >
@@ -78,7 +83,7 @@
         <p class="text-caption">Tous suppléments payants - Photos non contractuelles</p>
         <p class="text-caption">
           Pour votre santé, mangez au moins 5 fruits et légumes par jour :
-          <NuxtLink to="http://www.mangerbouger.fr" target="_blank">Mangerbouger.fr</NuxtLink>
+          <a href="http://www.mangerbouger.fr" target="_blank">Mangerbouger.fr</a>
         </p>
         <p class="text-caption">
           « L’abus d’alcool est dangereux pour la santé. À consommer avec modération »
@@ -90,10 +95,6 @@
     </div>
   </footer>
 </template>
-
-<script setup>
-// You can add any necessary script logic here
-</script>
 
 <style scoped>
 .footer {
