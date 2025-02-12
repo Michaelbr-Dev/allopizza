@@ -2,10 +2,11 @@
   <v-container class="mx-auto" max-width="100%">
     <v-row>
       <v-col v-for="product in props.products" :key="product.id" cols="12" sm="6" md="4" lg="3">
-        <v-card class="rounded-lg card">
+        <v-card class="rounded-lg card" hover>
           <a v-if="product.link" :href="product.link" target="_blank">
             <v-img
               :src="assetPath + product.img"
+              :alt="'Pizza ' + product.name"
               class="responsive-image align-end"
               height="auto"
               cover
@@ -24,6 +25,7 @@
             <a :href="`/${product.id}`">
               <v-img
                 :src="assetPath + product.img"
+                :alt="'Pizza ' + product.name"
                 class="responsive-image align-end"
                 height="auto"
                 cover
